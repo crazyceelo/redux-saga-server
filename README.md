@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Redux Saga Shopping Cart Back-end Server
 
 ## About
@@ -10,3 +11,6 @@ This application is meant to be used by, but not limited to, students completing
 1. Install dependencies: `npm install`
 2. Run server. `npm start`
 3. Navigate to the instructions page: `http://localhost:8081` (You must not already have a different application running on this port)
+=======
+# redux-saga-tutorial
+>>>>>>> af818a575d4ab964ea882a69e3b2fb6788e7d941
